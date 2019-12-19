@@ -1,0 +1,71 @@
+如下需要更换 applyNo 为自己的订单号
+
+
+
+{
+	"applyNo": "2031784",
+	"timeStamp": "2019-09-19 07:54:01.827",
+	"messageType": "CONTRACT_SIGNATURE",
+	"messageBody": {
+		"fileAttachmentDTOList": [{
+			"id": null,
+			"mainId": null,
+			"attachSubClass": "mortgageContractWeBank",
+			"attachSubClassName": null,
+			"fileName": "233110262711695693.zip",
+			"fileType": "pdf",
+			"upDateTime": null,
+			"fileId": "https://filestore.uat.yixincapital.com/group1/M01/1D/84/CgECMF2DM6iAPz_EABsaebqhoCE430.zip",
+			"fileUrl": null,
+			"deleted": null
+		}, {
+			"id": null,
+			"mainId": null,
+			"attachSubClass": "mortgageContractWeBankB",
+			"attachSubClassName": null,
+			"fileName": "23311026271169569301S.pdf",
+			"fileType": "pdf",
+			"upDateTime": null,
+			"fileId": "https://filestore.uat.yixincapital.com/group1/M01/1D/84/CgECL12DM6iATwmjAAkVywzcvnc049.pdf",
+			"fileUrl": null,
+			"deleted": null
+		}, {
+			"id": null,
+			"mainId": null,
+			"attachSubClass": "mortgageContractWeBankA",
+			"attachSubClassName": null,
+			"fileName": "23311026271169569301.pdf",
+			"fileType": "pdf",
+			"upDateTime": null,
+			"fileId": "https://filestore.uat.yixincapital.com/group2/M01/1D/83/CgECMl2DM6iAaBxyAAhvyiPYkwE683.pdf",
+			"fileUrl": null,
+			"deleted": null
+		}, {
+			"id": null,
+			"mainId": null,
+			"attachSubClass": "mortgageContractWeBankD",
+			"attachSubClassName": null,
+			"fileName": "23311026271169569302S.pdf",
+			"fileType": "pdf",
+			"upDateTime": null,
+			"fileId": "https://filestore.uat.yixincapital.com/group1/M01/1D/84/CgECMF2DM6iAE7P6AAjQ_CXhtDE371.pdf",
+			"fileUrl": null,
+			"deleted": null
+		}, {
+			"id": null,
+			"mainId": null,
+			"attachSubClass": "mortgageContractWeBankC",
+			"attachSubClassName": null,
+			"fileName": "23311026271169569302.pdf",
+			"fileType": "pdf",
+			"upDateTime": null,
+			"fileId": "https://filestore.uat.yixincapital.com/group2/M01/1D/84/CgECMV2DM6iAZ45aAAgoPR_dE2A966.pdf",
+			"fileUrl": null,
+			"deleted": null
+		}],
+		"code": null,
+		"message": null
+	},
+	"link": "CONTRACT_SIGNATURE",
+	"vNo": null
+}
